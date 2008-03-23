@@ -1,7 +1,7 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
-Ideas for the shit
+= WTF? =
+Here is where we put our ideas for the game
 
 
 = Details =
