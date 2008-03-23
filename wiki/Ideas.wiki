@@ -12,4 +12,4 @@ Add your content here.  Format your content with:
   * Automatic links to other wiki pages
 
 = Begin!=
-Here to do place ideas, Tim, press _Edit Page_ to edit
+Here to do place ideas, Tim, press _Edit This Page_ to edit
