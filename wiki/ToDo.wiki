@@ -2,9 +2,4 @@
 
 = To do list=
 
-BUGS:
-  # if you right click to use moveTo(pos), after it reaches there, it stops walking, even if you designate a new location
-
-Shit to do:
-  # clickable Button
-  # info screen overlay
+  * make a blog for planet umi (blogspot?)
