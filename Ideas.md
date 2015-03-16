@@ -1,0 +1,13 @@
+# WTF? #
+Here is where we put our ideas for the game
+
+
+# Details #
+
+Add your content here.  Format your content with:
+  * Text in **bold** or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+# Begin! #
+Here to do place ideas, Tim, press _Edit This Page_ to edit

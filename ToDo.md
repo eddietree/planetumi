@@ -1,0 +1,10 @@
+# To do list #
+
+  * make a blog for planet umi (blogspot?)
+
+# Forums #
+  * http://www.pixeljoint.com/forum/
+  * http://www.gamedev.org/forum/
+  * http://forums.devshed.com/
+  * http://www.gamedev.net/community/forums/topic.asp?topic_id=488099
+  * http://forum.deviantart.com/community/projects/
